@@ -1,12 +1,12 @@
 import tkinter as tk
 
-# Define font styles
+
 LARGE_FONT_STYLE = ("Arial", 40, "bold")
 SMALL_FONT_STYLE = ("Arial", 16)
 DIGITS_FONT_STYLE = ("Arial", 24, "bold")
 DEFAULT_FONT_STYLE = ("Arial", 20)
 
-# Define a custom color palette
+
 BACKGROUND_COLOR = "#272727"
 BUTTON_COLOR = "#393939"
 LABEL_COLOR = "#FFFFFF"
